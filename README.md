@@ -1,4 +1,4 @@
-# Hi there, I'm Kusuma aka Surya Kusuma 👋
+# Hi there, I'm Surya Kusuma aka Kusuma 👋
 ## About me:
 - 🔭 I’m currently study at University Education Of Indonesian
 - 💬 Ask me about anything
