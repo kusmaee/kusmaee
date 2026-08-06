@@ -41,5 +41,6 @@
 - 🔐 [Amaly - Ayo Bisa Kita Bisa!](https://amalysystem.com/) — Backend RESTful API built with NestJS, PostgreSQL & Prisma ORM
 - 📖 [Psychoxi Journal](https://jurnal.tcupsychoxi.id/) — Online psychology research journal platform, managed hosting & content
 - ❤️ [VascularConnect](https://github.com/kusmaee/Backend-VascullarConnect-Capstone) — One-stop teleconsulting platform for cardiovascular health (Bangkit Academy Capstone Project)
+- 🛡️ [Active Response & Malware Detection System](https://github.com/kusmaee/Wazuh-Active-response) — Final thesis project: real-time malware detection & notification system built for PT. Wijaya Karya Beton, Tbk.
 ---
 
