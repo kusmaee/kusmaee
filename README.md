@@ -36,5 +36,10 @@
    - Designed a relational database schema with PostgreSQL and implemented Prisma ORM.
    - Performed post-release system maintenance, troubleshooting, and query optimization.
    - Implemented secure authentication and authorization.
+     
+ ## Projects:
+- 🔐 [Amaly - Ayo Bisa Kita Bisa!](https://amalysystem.com/) — Backend RESTful API built with NestJS, PostgreSQL & Prisma ORM
+- 📖 [Psychoxi Journal](https://jurnal.tcupsychoxi.id/) — Online psychology research journal platform, managed hosting & content
+- ❤️ [VascularConnect](https://github.com/kusmaee/Backend-VascullarConnect-Capstone) — One-stop teleconsulting platform for cardiovascular health (Bangkit Academy Capstone Project)
 ---
 
