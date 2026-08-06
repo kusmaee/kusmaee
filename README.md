@@ -1,12 +1,12 @@
 # Hi there, I'm Surya Kusuma aka Kusuma 👋
 ## About me:
-- 🔭 I’m currently study at University Education Of Indonesian
+- 🎓 Bachelor's Degree in Telecommunication Systems from Indonesia University of Education
 - 💬 Ask me about anything
 - 📫 How to reach me: suryakusuma2515@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Pendidikan Indonesia] | Bachelor of System Telecommunication | Bandung `2021-2025 (expected)`
+#### 1. [Universitas Pendidikan Indonesia] | Bachelor of System Telecommunication | Bandung `2021-2025`
    - an IoT project called Sispek (Fire detection system) which was implemented at the Lab School Upi Purwakarta elementary school.
    - publishing devotion jurnal tittled Simulasi pengenalan evaluasi dini terhadap bencana kebakaran guna meningkatkan edukasi siswa
    - SD Labschool UPI Purwakarta berbasis Internet of things at polinema journal.
